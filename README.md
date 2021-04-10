@@ -14,10 +14,6 @@ Link : https://github.com/sjyoopostech/source_CSED211
 
 Link : https://github.com/sjyoopostech/source_CSED232
 
-### CSED211
-
-Link : https://github.com/sjyoopostech/source_CSED211
-
 ### CITE201
 
 Link : https://github.com/sjyoopostech/source_CITE201
